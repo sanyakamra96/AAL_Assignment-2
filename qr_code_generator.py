@@ -18,7 +18,7 @@ def generate_qr(url):
 
     img = qr.make_image(fill_color="black", back_color="white")
     img.save("bioxsystems_qr.png")
-    print("✅ QR Code generated successfully → bioxsystems_qr.png")
+    print(" QR Code generated successfully → bioxsystems_qr.png")
 
 if __name__ == "__main__":
     # URL for Biox Systems
