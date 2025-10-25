@@ -1,0 +1,12 @@
+Project Name: AI QR Code Generator
+Author: Sanya Kamra
+Course: MSCS-633-B01 Advanced Artificial Intelligence (Fall 2025)
+Description: A Python application that generates a QR code image from a user-provided URL.
+
+Language: Python 3.x
+Libraries Used: qrcode, Pillow
+IDE Used: Visual Studio Code
+Repository: https://github.com/<your-username>/AI-QR-Code-Generator
+Execution Command: python qr_code_generator.py
+Input: URL address entered by the user
+Output: generated_qr.png (QR code image saved locally)
